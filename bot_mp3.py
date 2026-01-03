@@ -12,9 +12,8 @@ from telebot.async_telebot import AsyncTeleBot
 from telebot import types
 from yt_dlp import YoutubeDL
 
-load_dotenv()
 
-BOT_TOKEN = ""
+BOT_TOKEN = "8380756187:AAH5ESnL6IbM5FrFasHApkidcn5PfiUV5AY"
 
 logging.basicConfig(
     level=logging.INFO,
