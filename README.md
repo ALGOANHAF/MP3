@@ -119,8 +119,8 @@ pip install pytelegrambotapi yt-dlp aiofiles
 Clone the repository:
 
 ```bash
-git clone https://github.com/algoanhaf/telegram-mp3-bot.git
-cd telegram-mp3-bot
+git clone https://github.com/algoanhaf/MP3.git
+cd MP3
 ```
 
 ---
@@ -128,13 +128,13 @@ cd telegram-mp3-bot
 ## ▶️ Run the Bot
 
 ```bash
-python bot.py
+python bot_mp3.py
 ```
 
 ### Run in background (optional)
 
 ```bash
-nohup python bot.py > bot.log 2>&1 &
+nohup python bot_mp3.py > bot.log 2>&1 &
 ```
 
 ---
