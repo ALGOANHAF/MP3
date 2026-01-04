@@ -13,7 +13,7 @@ from telebot import types
 from yt_dlp import YoutubeDL
 
 
-BOT_TOKEN = "8380756187:AAH5ESnL6IbM5FrFasHApkidcn5PfiUV5AY"
+BOT_TOKEN = ""
 
 logging.basicConfig(
     level=logging.INFO,
